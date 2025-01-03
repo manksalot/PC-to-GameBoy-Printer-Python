@@ -1,1 +1,0 @@
-pip install pyserial numpy pillow matplotlib opencv-python scipy
