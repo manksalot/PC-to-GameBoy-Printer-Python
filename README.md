@@ -1,5 +1,5 @@
 # PC-to-GameBoy-Printer-Python
-Raphael Boichot's Matlab PC-to-Game-Boy-Printer interface converted to Python.
+Raphael Boichot's Matlab PC-to-Game-Boy-Printer interface converted to Python. With a few extras, I thought it would be more intuitive.
 
 ## Running the Program
 There are two ways to run the program: from the Python source code or as an EXE.
@@ -49,3 +49,9 @@ When you start a print, another window displays a converted version of the selec
 ![Scan Window](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI-Scan-visual.JPG)
 
 ## Arduino Setup and Walkthrough.
+For the Arduino, use the .ino file for the sketch code. This will be in the Arduino_Nano_GB_Printer_Interface. Folder inside the .ino that you will load into the Arduino Board.
+-NOTE: this will work for both Nano and Uno boards, but you might have to change the SDA SCL pins if you want to use an OLED on a Uno. The OLED I use is a 128 x 32-pixel.
+
+-Here is the completed device. This has an Arduino Nano, a 128x32-pixel OLED, and a custom break-out board "BOB."
+
+![Arduino PCB](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-PCB.jpg)
