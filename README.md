@@ -46,7 +46,7 @@ When you start a print, another window displays a converted version of the selec
 
 -Here is the image scan window.
 
-![Scan Window](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI-Scan-visual.JPG)
+![Scan Window](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-PCB.jpg)
 
 ## Arduino Setup and Walkthrough.
 For the Arduino, use the .ino file for the sketch code. This will be in the Arduino_Nano_GB_Printer_Interface. Folder inside the .ino that you will load into the Arduino Board.
