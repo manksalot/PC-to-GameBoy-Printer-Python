@@ -40,5 +40,7 @@ The GUI window will automatically adjust the window size to the loaded picture.
 -There are three options for the GUI buttons: loading the picture, feeding the paper, and printing the image.
 
 -While running the program, every time you click the feed or print button. The program will auto-detect the COM the Arduino uses and create a serial connection with it.
+It will also handle closing the COM port used. This ensures a clean disconnect and prevents erroring out or having a COM Port Leak.
+
 
 
