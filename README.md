@@ -8,8 +8,11 @@ From the Python source code or as an EXE.
 # Running in VS Code
 In Python, you must install all the libraries needed for the program.
 The Python-Support-Files has a .txt file with the pip install command for all the required libraries.
+or you can copy this command.
+```bash
+pip install pyserial numpy pillow matplotlib opencv-python scipy pyinstaller
+```
 You can run this in VS Code. With all the files from the Python folder in the same directory, run PC_Gameboy_Printer.py.
-
 Note: Make sure to include the ICO file from the Python-Support-Files folder in the same folder as the .py files.
 
 # Running as an EXE
