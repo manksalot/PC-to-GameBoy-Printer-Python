@@ -32,4 +32,7 @@ There are two ways to run the program: from the Python source code or as an EXE.
     Note: This will create a dist and build folder; the dist folder has the created EXE program.
    
 ## GUI
+This is the program GUI. The program will start at a fixed window size with a blank spot above the GUI buttons.
+The GUI window will automatically adjust the window size to the loaded picture.
+
 ![GUI](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI.JPG)
