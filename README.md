@@ -56,5 +56,5 @@ For the Arduino, use the .ino file for the sketch code. This will be in the Ardu
 
 ![Arduino PCB](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-PCB.jpg)
 
-![Arduino With ProtoCase](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-PCB.jpg)
+![Arduino With ProtoCase](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Angled-Shot-Protocase.jpg)
 
