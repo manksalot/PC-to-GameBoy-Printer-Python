@@ -58,8 +58,9 @@ For the Arduino, use the .ino file for the sketch code. This will be in the Ardu
 
 ![Arduino With ProtoCase](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Angled-Shot-Protocase.jpg)
 
-When the Arduino boots, you will see a booting screen and a standby screen indicating that the device is ready.
+-When the Arduino boots, you will see a booting screen and a standby screen indicating that the device is ready.
+
 ![Arduino Booting](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-Booting.jpg)
 
-![Arduino Standby](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-Booting.jpg)
+![Arduino Standby](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/STBY1.jpg)
 
