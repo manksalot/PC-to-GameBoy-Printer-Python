@@ -54,4 +54,7 @@ For the Arduino, use the .ino file for the sketch code. This will be in the Ardu
 
 -Here is the completed device. This has an Arduino Nano, a 128x32-pixel OLED, and a custom break-out board "BOB."
 
-![Arduino PCB](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Link-Port-View-Protocase.jpg)
+![Arduino PCB](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-PCB.jpg)
+
+![Arduino With ProtoCase](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Arduino-PCB.jpg)
+
