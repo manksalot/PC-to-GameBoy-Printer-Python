@@ -32,19 +32,22 @@ There are two ways to run the program: from the Python source code or as an EXE.
     Note: This will create a dist and build folder; the dist folder has the created EXE program.
    
 ## GUI
-This is the program GUI. The program will start at a fixed window size with a blank spot above the GUI buttons.
+This is the program's GUI. The program will start with a fixed window size and a blank spot above the GUI buttons.
 The GUI window will automatically adjust the window size to the loaded picture.
 
 ![GUI](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI.JPG)
 
 -There are three options for the GUI buttons: loading the picture, feeding the paper, and printing the image.
 
--While running the program, every time you click the feed or print button. The program will auto-detect the COM the Arduino uses and create a serial connection with it.
+While running the program, every time you click the feed or print button, it will auto-detect the COM the Arduino uses and create a serial connection.
 It will also handle closing the COM port used. This ensures a clean disconnect and prevents erroring out or having a COM Port Leak.
 
--When you start a print, another window will display a converted version of the selected image. This image will be resized and orientated for the best ratio. Finally, a dithering process will convert the image to hex data stored to send to the Arduino as packets.
+When you start a print, another window displays a converted version of the selected image. This image has been resized and oriented to achieve the best ratio. Finally, a dithering process converts the image to hex data, which is stored and sent to the Arduino as packets. Each red rectangle represents a section of the image the printer is printing.
+
+## Arduino Setup and Walkthrough.
 
 -Here is the image scan window.
 
 ![Scan Window](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI-Scan-visual.JPG)
+
 
