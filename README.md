@@ -16,7 +16,7 @@ Raphael Boichot's Matlab PC-to-Game-Boy-Printer interface converted to Python. W
 There are two ways to run the program: from the Python source code or as an executable (EXE).
 
 ### Running in VS Code
-1. **Install Required Libraries**: Use the following command to install the necessary libraries:
+1. **Install Required Libraries**: Use the following command to install the necessary libraries. Note: this is in the Python-Support-files/Python-requirements.txt:
     ```bash
     pip install pyserial numpy pillow matplotlib opencv-python scipy pyinstaller
     ```
