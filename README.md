@@ -44,10 +44,8 @@ It will also handle closing the COM port used. This ensures a clean disconnect a
 
 When you start a print, another window displays a converted version of the selected image. This image has been resized and oriented to achieve the best ratio. Finally, a dithering process converts the image to hex data, which is stored and sent to the Arduino as packets. Each red rectangle represents a section of the image the printer is printing.
 
-## Arduino Setup and Walkthrough.
-
 -Here is the image scan window.
 
 ![Scan Window](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI-Scan-visual.JPG)
 
-
+## Arduino Setup and Walkthrough.
