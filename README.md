@@ -9,6 +9,7 @@ Raphael Boichot's Matlab PC-to-Game-Boy-Printer interface converted to Python. W
 - [Arduino Setup](#arduino-setup)
 - [Visuals](#visuals)
 - [Data Transfer](#data-transfer)
+- [Printing](#printing)
 - [Features](#features)
 - [Contributing](#contributing)
 
@@ -89,6 +90,15 @@ For the Arduino, use the .ino file for the sketch code. This will be in the Ardu
 
 ![Sending Data Packet 1](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/Packet-Sending-1.jpg)
 *Arduino Sending packet 1.*
+
+## Printing
+-Here are some pictures of the GB Printer printing.
+
+![Printing setup](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GB-Printer-W-Arduino-Nano.jpg)
+*Arduino and GB Printer printing.*
+
+![GB Printer Printing](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GB-Printer-Printing.jpg)
+*Arduino and GB Printer printing.*
 
 ## Features
 - Intuitive GUI for easy image loading and printing.
