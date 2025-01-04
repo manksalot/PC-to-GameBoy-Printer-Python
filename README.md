@@ -42,5 +42,8 @@ The GUI window will automatically adjust the window size to the loaded picture.
 -While running the program, every time you click the feed or print button. The program will auto-detect the COM the Arduino uses and create a serial connection with it.
 It will also handle closing the COM port used. This ensures a clean disconnect and prevents erroring out or having a COM Port Leak.
 
+-When you start a print, another window will display a converted version of the selected image. This image will be resized and orientated for the best ratio. Finally, a dithering process will convert the image to hex data stored to send to the Arduino as packets.
+-Here is the image scan window.
 
+![Scan Window](https://github.com/AKABigDinner/PC-to-GameBoy-Printer-Python/blob/main/Photos/GUI-Scan-visual.JPG)
 
