@@ -27,6 +27,8 @@ There are two ways to run the program: from the Python source code or as an exec
    **Note**: Include the ICO file from the Python-Support-Files folder in the same folder as the `.py` files.
 
 ### Running as an EXE
+0. A Windows executable is provided in [dist](https://github.com/manksalot/PC-to-GameBoy-Printer-Python/tree/main/Python/dist). Due to Github upload limits it is split using 7zip; use 7zip to unpack.
+
 1. You must install PyInstaller by running this command:
 
     ```bash
